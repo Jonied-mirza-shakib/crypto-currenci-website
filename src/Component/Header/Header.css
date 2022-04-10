@@ -1,0 +1,27 @@
+.home-container {
+    background-color: darkblue;
+    margin-top: 0;
+}
+
+.home-container nav {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: monospace;
+    padding: 30px;
+}
+
+nav .home-first-section a {
+    text-decoration: none;
+    font-size: 25px;
+    color: aliceblue;
+}
+
+nav .home-second-section a {
+    text-decoration: none;
+    margin-left: 16px;
+    color: aliceblue;
+    font-size: 20px;
+}

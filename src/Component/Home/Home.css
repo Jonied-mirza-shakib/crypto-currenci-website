@@ -1,0 +1,17 @@
+.home {
+    height: 100vh;
+    background-color: darkcyan;
+}
+
+.container h1 {
+    margin-bottom: 30px;
+    color: azure;
+    padding-top: 120px;
+}
+
+.container .home-btn {
+    background-color: cadetblue;
+    padding: 10px;
+    font-size: 20px;
+    color: white !important;
+}

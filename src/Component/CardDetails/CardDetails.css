@@ -1,0 +1,18 @@
+.coinDetails {
+    background-color: antiquewhite !important;
+}
+
+.card {
+    width: 70%;
+    border-radius: 10px !important;
+    background-color: darkcyan !important;
+    color: white !important;
+    margin: 0 auto;
+    font-family: monospace;
+    font-weight: 500 !important;
+
+}
+
+.card .card-body img {
+    margin-bottom: 20px;
+}
